@@ -3,17 +3,8 @@
 #EXTINF:0,Teleamazonas
 https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
-#EXTINF:0,RTS
-https://ec-rts-guayaquil-live.ned.media/rts/guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNDE2NTg0LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6Ijc2NzNjMDlhZWQxZGI1MmJiZmU3NzNkNDVjNmRlYzVhZGY1NWZiNTEifQ%3D%3D
-
-#EXTINF:0,TVC
-https://ec-tvc-tvc-live.ned.media/tvc/tvc.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNDE3MTUyLCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjVkOTcwZDNiNjJhYzI1OWM3NTljOTc5NTU0NzczNTEwZjk1ZDI3OWQifQ==
-
 #EXTINF:0,NICK
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=2907&deviceDNT=0&deviceModel=0
-
-#EXTINF:0,H&H
-https://d2q5ek69zn.azcdn130.net:8443/hls/adtxiz8zv.m3u8?s=cpGdnoI6kc3W1COWKs97jw&e=1623380594
 
 #EXTINF:-1, FOX
 https://d2q5ek69zn.azcdn130.net:8443/hls/t9arlll7t.m3u8?s=UmktZzIZ6SCws4bUkxMXJg&e=1623490095
