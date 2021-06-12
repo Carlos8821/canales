@@ -1,8 +1,5 @@
 #EXTM3U
  
-#EXTINF:-1, ECUAVISA
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/603ea23f928cc5255563012c/publish/media_1800.m3u8?aid=60214bbd7267582b2467eff9&uid=ZhdBWtiuokzfP4ECLqE8RGHOt6xFotAk&sid=JDws1rVM2zY1jQVOPpJRhwrpegJAPrHm&pid=PXhdgsxZRbogBKT3exD6uOJGjHqhQ87o&ref=https%3A%2F%2Fcanal.cablegratis.online%2F&without_cookies=false&dnt=true&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1623552449755&ot=t5XW_1D8jtOueR-EUaw39A&proto=https&pz=us
-
 #EXTINF:-1, FOX
 https://d2q5ek69zn.azcdn130.net:8443/hls/t9arlll7t.m3u8?s=UmktZzIZ6SCws4bUkxMXJg&e=1623490095
 
@@ -14,5 +11,11 @@ https://d2q5ek69zn.azcdn130.net:8443/hls/vdjqriuj6.m3u8?s=ftIsLGjnriAzciiA-614Rw
 
 #EXTINF:-1, CARTOON NETWORK
 https://d2q5ek69zn.azcdn130.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=rWQfuR0UWAcrC2vQstpOjg&e=1623490774
+
+#EXTINF:-1, ID
+https://d2q5ek69zn.azcdn130.net:8443/hls/514ss431.m3u8?s=eO5eewmiFDgCxv4azIdUHQ&e=1623490981
+
+#EXTINF:-1, DISCOVERY
+https://d2q5ek69zn.azcdn130.net:8443/hls/pp7wc09i0.m3u8?s=HfPypRddcFx0TkMQ5XFfqw&e=1623491135
 
 
