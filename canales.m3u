@@ -6,3 +6,30 @@ https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/603ea23f928cc5255563012c/publis
 #EXTINF:-1, EC
 
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/603ea23f928cc5255563012c/publish/media_1800.m3u8?aid=60214bbd7267582b2467eff9&uid=ZhdBWtiuokzfP4ECLqE8RGHOt6xFotAk&sid=JDws1rVM2zY1jQVOPpJRhwrpegJAPrHm&pid=PXhdgsxZRbogBKT3exD6uOJGjHqhQ87o&ref=https%3A%2F%2Fcanal.cablegratis.online%2F&without_cookies=false&dnt=true&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1623552449755&ot=t5XW_1D8jtOueR-EUaw39A&proto=https&pz=us
+
+
+#EXTINF:-1,*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
+ 
+https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
+
+
+#EXTINF:0,TVE 24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1, FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1, Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTVLCOPT:network-caching=1000
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+
+#EXTINF:-1, Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+
+#EXTINF:0,BeMad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1,SPAIN:BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
