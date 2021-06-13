@@ -27,6 +27,9 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=K_wc6OW_RQ83LJnMQPGcLA
 #EXTINF:-1, FOX
 https://6ra8tpg8m6.azcdn107.net:8443/hls/0e733j.m3u8?s=mx9LwWBkqBVCB92ReRex2A&e=1623616424
 
+#EXTINF:-1, FX
+https://6ra8tpg8m6.azcdn107.net:8443/hls/tmrzr0.m3u8?s=TD6zqC_bGjs2u3NZDzGOCQ&e=1623618736
+
 #EXTINF:-1, TNT
 https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=CeQl92-w3ZnnCxjHf798XQ&e=1623617927
 
@@ -45,14 +48,14 @@ https://d2q5ek69zn.azcdn130.net:8443/hls/pp7wc09i0.m3u8?s=HfPypRddcFx0TkMQ5XFfqw
 #EXTINF:-1, FOX DEPOR
 https://d2q5ek69zn.azcdn130.net:8443/hls/yodsbtspkxcb04i.m3u8?s=_2Xdg7lzOO87ZojjVx_kkg&e=1623492145
 
-#EXTINF:-1, FX
-https://6ra8tpg8m6.azcdn107.net:8443/hls/tmrzr0.m3u8?s=TD6zqC_bGjs2u3NZDzGOCQ&e=1623618736
-
 #EXTINF:-1, DISCOVERY TURBO
 https://6ra8tpg8m6.azcdn107.net:8443/hls/54tliye.m3u8?s=JeiM_jNQIGa3EdIjRFo6eA&e=1623618617
 
 #EXTINF:-1, H&H
 https://d2q5ek69zn.azcdn130.net:8443/hls/adtxiz8zv.m3u8?s=oG5ZrqUpRpXBnuz-OxGrJA&e=1623529026
+
+#EXTINF:-1, HBO
+https://6ra8tpg8m6.azcdn107.net:8443/hls/gz6etjawnxu.m3u8?s=AN2W3l5Vx4-S8jQ41w_Vng&e=1623619649
 
 #EXTINF:-1, SONY
 https://d2q5ek69zn.azcdn130.net:8443/hls/oc2v2i6j.m3u8?s=3F1HtuTVzAhZ-4roYm4jjA&e=1623529149
