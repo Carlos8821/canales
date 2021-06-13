@@ -21,6 +21,9 @@ https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1503880639.m3u
 #EXTINF:0,NICK
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=2907&deviceDNT=0&deviceModel=0
 
+#EXTINF:0,NICK
+https://6ra8tpg8m6.azcdn107.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=_S3E5RnUf--3jMKEcVNWyw&e=1623621724
+
 #EXTINF:-1, FOX
 https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=K_wc6OW_RQ83LJnMQPGcLA&e=1623616391
 
@@ -67,10 +70,10 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/lbqtn3.m3u8?s=51pxaKFNV5i9YMccQXqoeA&e=
 https://6ra8tpg8m6.azcdn107.net:8443/hls/7k8po6ket.m3u8?s=Lf3cihkr3wFpyEs4UsiGaw&e=1623619951
 
 #EXTINF:-1, SONY
-https://d2q5ek69zn.azcdn130.net:8443/hls/oc2v2i6j.m3u8?s=3F1HtuTVzAhZ-4roYm4jjA&e=1623529149
+https://6ra8tpg8m6.azcdn107.net:8443/hls/oc2v2i6j.m3u8?s=N-QB9ZctG2oaXENZaBchag&e=1623621878
 
 #EXTINF:-1, DISCOVERY KIDS
-https://d2q5ek69zn.azcdn130.net:8443/hls/0gtz7.m3u8?s=tApNj4RI85xOiWIUc61FGg&e=1623497045
+https://6ra8tpg8m6.azcdn107.net:8443/hls/0gtz7.m3u8?s=Z6yVrct2IPsMuWn8ArsDDQ&e=1623622101
 
 
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Canela TV  | EC
