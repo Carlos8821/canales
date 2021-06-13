@@ -13,7 +13,10 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b12480
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5fdd14e2ae4dcc06ebf7546e/publish/media_200.m3u8?aid=5fb66f3f792ddf08270744a4&uid=ZhdBWtiuokzfP4ECLqE8RGHOt6xFotAk&sid=A31QMJY7qIdqfZSEOQ8MBdfdQVKDzdmM&pid=GXZe91zYR3sLkxQ7hNjv9rlmfJ5LgTNz&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&without_cookies=false&dnt=true&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1623564614187&ot=kreFRX3WqZm-1bKMGVAerw&proto=https&pz=us
 
 #EXTINF:-1, GOL TV
-https://e4.cdnfoxtv.com/ingest03/37387.m3u8?sf=SFRLSUxVSTZOag==&token=cem7bQfzccnl-WDfspARWQ&expires=1623493178&rnd=
+https://6ra8tpg8m6.azcdn107.net:8443/hls/nt79b4v8i6.m3u8?s=qr8ME_BhEPApTTwv7j7Ptw&e=1623623151
+
+#EXTINF:-1, GOL TV
+https://6ra8tpg8m6.azcdn107.net:8443/hls/wcnkeoiaz3tde.m3u8?s=s3SPew4EaN50ILUQJUj5YA&e=1623623877
 
 #EXTINF:-1, CANELA TV
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1503880639.m3u8
