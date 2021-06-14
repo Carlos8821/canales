@@ -7,10 +7,13 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
 #EXTINF:-1, RTS
-https://ec-rts-guayaquil-live.nTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjAxOGUyMmVjNjhhZGJiODNiNzgyNmQ0ZTVlZjE1MGM2ZmFjN2NiNjgifQ%3D%3Ded.media/rts/guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNzY0ODkyLCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjAxOGUyMmVjNjhhZGJiODNiNzgyNmQ0ZTVlZjE1MGM2ZmFjN2NiNjgifQ%3D%3D
+https://ec-rts-guayaquil-live.ned.media/rts/guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNzY0ODkyLCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjAxOGUyMmVjNjhhZGJiODNiNzgyNmQ0ZTVlZjE1MGM2ZmFjN2NiNjgifQ%3D%3D
 
 #EXTINF:-1, TC
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5fdd14e2ae4dcc06ebf7546e/publish/media_200.m3u8?aid=5fb66f3f792ddf08270744a4&uid=ZhdBWtiuokzfP4ECLqE8RGHOt6xFotAk&sid=A31QMJY7qIdqfZSEOQ8MBdfdQVKDzdmM&pid=GXZe91zYR3sLkxQ7hNjv9rlmfJ5LgTNz&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&without_cookies=false&dnt=true&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1623564614187&ot=kreFRX3WqZm-1bKMGVAerw&proto=https&pz=us
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
+
+#EXTINF:-1, TVC
+https://ec-tvc-tvc-live.ned.media/tvc/tvc.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNzY1MTQ1LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImVjYTk3ZWNkYjc0ZTAxMjhkNzMyZTdlNzVkZWM5ZDk1MjU0NjkwNTEifQ==
 
 #EXTINF:-1, GOL TV
 https://6ra8tpg8m6.azcdn107.net:8443/hls/nt79b4v8i6.m3u8?s=qr8ME_BhEPApTTwv7j7Ptw&e=1623623151
@@ -22,7 +25,7 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/wcnkeoiaz3tde.m3u8?s=s3SPew4EaN50ILUQJU
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1503880639.m3u8
 
 #EXTINF:0,NICK
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=2907&deviceDNT=0&deviceModel=0
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=daaa&deviceDNT=0&deviceModel=0
 
 #EXTINF:0,NICK
 https://6ra8tpg8m6.azcdn107.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=_S3E5RnUf--3jMKEcVNWyw&e=1623621724
@@ -46,7 +49,7 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=YpqHi9ioVMC2eTS4PGUIew&e=
 https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=ZvCwdao804kQz6-TGOtRFA&e=1623640832
 
 #EXTINF:-1, CARTOON NETWORK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=jNtSfpjkEt1grBk2fAq8kg&e=1623642537
+https://6ra8tpg8m6.azcdn107.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=N9XszTKM6TCk48JMhVfK1g&e=1623703973
 
 #EXTINF:-1, ID
 https://6ra8tpg8m6.azcdn107.net:8443/hls/514ss431.m3u8?s=s7rtcO_kAMt9rifVnIdY9A&e=1623641164
