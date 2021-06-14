@@ -15,6 +15,9 @@ https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 #EXTINF:-1, TVC
 https://ec-tvc-tvc-live.ned.media/tvc/tvc.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNzY1MTQ1LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImVjYTk3ZWNkYjc0ZTAxMjhkNzMyZTdlNzVkZWM5ZDk1MjU0NjkwNTEifQ==
 
+#EXTINF:-1, NOVELA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806&deviceDNT=0&deviceModel=0
+
 #EXTINF:-1, GOL TV
 https://6ra8tpg8m6.azcdn107.net:8443/hls/nt79b4v8i6.m3u8?s=qr8ME_BhEPApTTwv7j7Ptw&e=1623623151
 
