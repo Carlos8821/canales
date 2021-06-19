@@ -1,8 +1,7 @@
 #EXTM3U
  
 #EXTINF:0,Teleamazonas
-https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
-
+https://playback.akamaized.net/streams/1359588_4428723_lsik1bal9yereg7czj4_1/media/1359588_4428723_lsik1bal9yereg7czj4_1@2756000p.m3u8?dw=14400&ts=1624107600&hdnts=exp=1624280829~acl=/streams/1359588_4428723_lsik1bal9yereg7czj4_1/media*~hmac=37c3a45c058bea8b3746c1985562071f317ac2d0547429a45dff83d0a6389e2c
 #EXTINF:-1, ECUAVISA
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
