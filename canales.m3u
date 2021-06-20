@@ -13,7 +13,7 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b12480
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 
 #EXTINF:-1, TVC
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0MTk1NTI5LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjgyMzU4ZGE4NTU3YjIwOTFmNzk4MDY5OTgwZGQ0MDlmN2Q3ZDBiNWYifQ%3D%3D
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0MzEzMjc5LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImY5NDExODM5MTY0MWZhOTA3M2QzMjM2MmZmOGJmMDVmZTZhMzc3MjIifQ%3D%3D
 
 #EXTINF:-1, NOVELA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806&deviceDNT=0&deviceModel=0
@@ -52,10 +52,10 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/1mptcl1.m3u8?s=xSeED1bLEjuSi4mI4AHw9Q&e
 https://6ra8tpg8m6.azcdn107.net:8443/hls/pp7wc09i0.m3u8?s=zFt2WVNPMAUpp1gz-CAAEw&e=1624248005
 
 #EXTINF:-1, DIRECTV DEPOR
-https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=UpWKBMB33Fp-EAmXr68gYA&e=1624137898
+https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=kOD-KDkPSmXsbBB-TxIOLA&e=1624248804
 
 #EXTINF:-1, FOX DEPOR
-https://6ra8tpg8m6.azcdn107.net:8443/hls/9szg79sf.m3u8?s=z1-Hx-M7PAvFz8hYj-idqA&e=1624168441
+https://6ra8tpg8m6.azcdn107.net:8443/hls/9szg79sf.m3u8?s=fFV1-pyKts0tuJI5Dx705g&e=1624249017
 
 #EXTINF:-1, ESPN
 https://6ra8tpg8m6.azcdn107.net:8443/hls/uezpfjf.m3u8?s=Y7ga8aQOutR9vJ0QMMGyCw&e=1624168276
