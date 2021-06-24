@@ -21,7 +21,7 @@ https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1, GOL TV
-https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=DNB6-M8ECzaNyc6xCwDvIg&e=1624516092
+https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=MzErURgoyhxUGA9YRuPTsg&e=1624578779
 
 #EXTINF:-1, CARTOON NETWORK
 https://6ra8tpg8m6.azcdn107.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=lJh1If2-ouVUTeu5ImUxGQ&e=1624561627
@@ -34,6 +34,9 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=2rOhaeSwMDHq2VsO
 
 #EXTINF:-1, FOX
 https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=gg5BluMOq0rRCZ-Jov0cNA&e=1624572030
+
+#EXTINF:-1, FOX
+http://iptvhd.club:8081/televall2021/543_.m3u8?token=y90pw1vdVtAvifZG9VEOQQ&expires=1624557787
 
 #EXTINF:-1, FX
 https://6ra8tpg8m6.azcdn107.net:8443/hls/tmrzr0.m3u8?s=gNoG_9JGkVb74tETMZP1GQ&e=1624561832
