@@ -2,6 +2,8 @@
  
 #EXTINF:0,Teleamazonas
 https://playback.akamaized.net/streams/1359588_4428723_lsifplyem682s8f3eej_1/media/1359588_4428723_lsifplyem682s8f3eej_1@2756000p.m3u8?dw=14400&ts=1624392000&hdnts=exp=1624568053~acl=/streams/1359588_4428723_lsifplyem682s8f3eej_1/media*~hmac=4c2273a5e8423f4e0dfdd100d15a85ce7059700581adab72b533a35e805cd995
+#EXTINF:0,Teleamazonas
+https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
 #EXTINF:-1, ECUAVISA
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
@@ -31,7 +33,7 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/0gtz7.m3u8?s=UyX8W6Vuk_0O8nPToUzsWQ&e=1
 https://6ra8tpg8m6.azcdn107.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=2rOhaeSwMDHq2VsONVKK1w&e=1624561796
 
 #EXTINF:-1, FOX
-https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=3wjB7sjvWisU_0r6v046Vg&e=1624547232
+https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=gg5BluMOq0rRCZ-Jov0cNA&e=1624572030
 
 #EXTINF:-1, FX
 https://6ra8tpg8m6.azcdn107.net:8443/hls/tmrzr0.m3u8?s=gNoG_9JGkVb74tETMZP1GQ&e=1624561832
