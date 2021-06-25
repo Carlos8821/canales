@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:0,Teleamazonas
-https://playback.akamaized.net/streams/1359588_4428723_lsifplyem682s8f3eej_1/media/1359588_4428723_lsifplyem682s8f3eej_1@2756000p.m3u8?dw=14400&ts=1624392000&hdnts=exp=1624568053~acl=/streams/1359588_4428723_lsifplyem682s8f3eej_1/media*~hmac=4c2273a5e8423f4e0dfdd100d15a85ce7059700581adab72b533a35e805cd995
+https://playback.akamaized.net/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media/1359588_4428723_lsitxwgnwg59hue92od_1@2756000p.m3u8?dw=14400&ts=1624626000&hdnts=exp=1624799549~acl=/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media*~hmac=6204b53b63a57d5f1edcae8450e180cc3e15ff5328580fcd304675cac8d0c488
 #EXTINF:0,Teleamazonas
 https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
@@ -9,76 +9,76 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
 #EXTINF:-1, RTS
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NTgwNDU0LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjI2OTFkYjhhNTQ5NjA1ZWQ3ZGE0ZmRkYTA2ZjE0MWZkNmY3OWIxYjUifQ%3D%3D
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzMDU3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjJjZDI5OTAwZDM4MWZlZjk1YzVjNDU2MWM3MDMyZjk4N2IyMTM0MjAifQ%3D%3D
 
 #EXTINF:-1, TC
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 
 #EXTINF:-1, TVC
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NTgwNzg5LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImEwZTBlMzUxMjJlNTJkN2UwNDE4MTRjNDM4OGJlMzFiZDEzYTM2Y2UifQ%3D%3D
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzNDI3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImQ0ZGIwMzIwYzFmMTgzZjYyMzNmOTU3NWQ0YjQyNTg2OGU3YTg5ZGMifQ%3D%3D
 
 #EXTINF:-1, NOVELA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1, GOL TV
-https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=MzErURgoyhxUGA9YRuPTsg&e=1624578779
+https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9LTYzeq-3B12GuQ-c3c6DQ&e=1624648804
 
 #EXTINF:-1, CARTOON NETWORK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=lJh1If2-ouVUTeu5ImUxGQ&e=1624561627
+https://6ra8tpg8m6.azcdn107.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=f0huSyhBNNS1YjdBRTI7Lg&e=1624648735
 
 #EXTINF:-1, DISCOVERY KIDS
-https://6ra8tpg8m6.azcdn107.net:8443/hls/0gtz7.m3u8?s=UyX8W6Vuk_0O8nPToUzsWQ&e=1624561742
+https://6ra8tpg8m6.azcdn107.net:8443/hls/0gtz7.m3u8?s=E2zFPwXugZB0A1XdlkXLGA&e=1624649018
 
 #EXTINF:0,NICK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=2rOhaeSwMDHq2VsONVKK1w&e=1624561796
+https://6ra8tpg8m6.azcdn107.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=66oKhGU9Ikh84QwDCiWS5Q&e=1624649074
 
 #EXTINF:-1, FOX
-https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=gg5BluMOq0rRCZ-Jov0cNA&e=1624572030
+https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=YY1KrxUChjY4Q1hPFMp7ew&e=1624649541
 
 #EXTINF:-1, FOX
-http://iptvhd.club:8081/televall2021/543_.m3u8?token=y90pw1vdVtAvifZG9VEOQQ&expires=1624557787
+https://6ra8tpg8m6.azcdn107.net:8443/hls/0e733j.m3u8?s=pcUi1s1ANNp1dtgrFj--lg&e=1624649598
 
 #EXTINF:-1, FX
-https://6ra8tpg8m6.azcdn107.net:8443/hls/tmrzr0.m3u8?s=gNoG_9JGkVb74tETMZP1GQ&e=1624561832
+https://6ra8tpg8m6.azcdn107.net:8443/hls/tmrzr0.m3u8?s=RQ3xQetC8c4hue3SRWVKLw&e=1624649671
 
 #EXTINF:-1, TNT
-https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=GmZqthhkt7q9NRTUpQZ3IA&e=1624561862
+https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=Z9G4lS227OKZKmV55pmJKg&e=1624649760
 
 #EXTINF:-1, SPACE
-https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=lTXV49GB3mFOxdauHyxKNw&e=1624561921
+https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=A3hdXQKv67oUSMklc4A9jw&e=1624649795
 
 #EXTINF:-1, ID
-https://6ra8tpg8m6.azcdn107.net:8443/hls/sw9m2du9.m3u8?s=4cta8FVj05Xmx8HCt5acBA&e=1624562061
+https://6ra8tpg8m6.azcdn107.net:8443/hls/1mptcl1.m3u8?s=lukEENVdUEqwzA4e341AGA&e=1624650036
 
 #EXTINF:-1, DISCOVERY
-https://6ra8tpg8m6.azcdn107.net:8443/hls/pp7wc09i0.m3u8?s=-HvdRvRhK32QLuqdgY93HA&e=1624562094
+https://6ra8tpg8m6.azcdn107.net:8443/hls/pp7wc09i0.m3u8?s=UepUnErR-PAE4DtVkPoYbA&e=1624650079
 
 #EXTINF:-1, H&H
-https://6ra8tpg8m6.azcdn107.net:8443/hls/adtxiz8zv.m3u8?s=UGV1CILY8torXBSujQnrvQ&e=1624562148
+https://6ra8tpg8m6.azcdn107.net:8443/hls/adtxiz8zv.m3u8?s=uIqGLZvptMaJOPjxKm8XvQ&e=1624648926
 
 #EXTINF:-1, DISCOVERY TURBO
-https://6ra8tpg8m6.azcdn107.net:8443/hls/54tliye.m3u8?s=dIkSIR3jcXkKpcu8wfEyQg&e=1624562172
+https://6ra8tpg8m6.azcdn107.net:8443/hls/54tliye.m3u8?s=2Z071Ei30mCPZpFhJMNzyw&e=1624650368
 
 #EXTINF:-1, DIRECTV DEPOR
-https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=1f8737Uk-KvZzxeyxA-zKg&e=1624562201
+https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=hbDb_3faUMjcQ_8gt126tw&e=1624650408
 
 #EXTINF:-1, FOX DEPOR
-https://6ra8tpg8m6.azcdn107.net:8443/hls/yodsbtspkxcb04i.m3u8?s=GeP5GCqZttG_Kc4ONHdCSQ&e=1624562265
+https://6ra8tpg8m6.azcdn107.net:8443/hls/0ce8zf9e.m3u8?s=gotOd-TP-qMvLrFP5s2w_A&e=1624650508
 
 #EXTINF:-1, ESPN
-https://6ra8tpg8m6.azcdn107.net:8443/hls/og9w80yjcw67wox.m3u8?s=xmxjVmcVf7cc1VVtdkFifA&e=1624562323
+https://6ra8tpg8m6.azcdn107.net:8443/hls/uezpfjf.m3u8?s=wypqMq-sg4vFHlX7Sf6_NQ&e=1624650543
 
 #EXTINF:-1, HBO2
-https://6ra8tpg8m6.azcdn107.net:8443/hls/7k8po6ket.m3u8?s=tiNkb3v7ZrZP5chQ6AVm4g&e=1624562360
+https://6ra8tpg8m6.azcdn107.net:8443/hls/7k8po6ket.m3u8?s=VekOMM3y00JPtg8JH9_7NQ&e=1624650621
 
 #EXTINF:-1, HBO
-https://6ra8tpg8m6.azcdn107.net:8443/hls/gz6etjawnxu.m3u8?s=7XFiEZTeilFYSX_k_h3cyA&e=1624562407
+https://6ra8tpg8m6.azcdn107.net:8443/hls/gz6etjawnxu.m3u8?s=CAlstvt2Yf3ZXj07pK0iwQ&e=1624650588
 
 #EXTINF:-1, AMC
-https://6ra8tpg8m6.azcdn107.net:8443/hls/mh2yp.m3u8?s=k63qHcLenSOkhdBiJiQ4fQ&e=1624562439
+https://6ra8tpg8m6.azcdn107.net:8443/hls/mh2yp.m3u8?s=cT_OMWJdh-g4FI8nB-ECVw&e=1624650677
 
 #EXTINF:-1, SONY
-https://6ra8tpg8m6.azcdn107.net:8443/hls/oc2v2i6j.m3u8?s=Pjyo_M1ugVgkNFLcMMlIaA&e=1624562476
+https://6ra8tpg8m6.azcdn107.net:8443/hls/oc2v2i6j.m3u8?s=_oP9dZfGZ4_YXGXbGmvJzg&e=1624650666
 
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Canela TV  | EC
 https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
