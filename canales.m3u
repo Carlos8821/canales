@@ -23,6 +23,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 #EXTINF:-1, GOL TV
 https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9LTYzeq-3B12GuQ-c3c6DQ&e=1624648804
 
+#EXTINF:-1, GOL PERU
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/110_.m3u8
+
 #EXTINF:-1, CARTOON NETWORK
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_20_3_.m3u8
 
@@ -54,16 +57,19 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_159_3_.m3u8
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_126_3_.m3u8
 
 #EXTINF:-1, ID
-https://6ra8tpg8m6.azcdn107.net:8443/hls/1mptcl1.m3u8?s=3neW-az28MLQkGIwwCabHA&e=1624685993
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_100_3_.m3u8
 
 #EXTINF:-1, DISCOVERY
-https://6ra8tpg8m6.azcdn107.net:8443/hls/pp7wc09i0.m3u8?s=1l44uMe1FyZtPbSuH0QB4A&e=1624686059
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_39_3_.m3u8
+
+#EXTINF:-1, ANIMAL PLANET
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_4_3_.m3u8
 
 #EXTINF:-1, H&H
-https://6ra8tpg8m6.azcdn107.net:8443/hls/adtxiz8zv.m3u8?s=cPb4nE8yvlx6eaPgRjgfVw&e=1624685405
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_40_3_.m3u8
 
 #EXTINF:-1, DISCOVERY TURBO
-https://6ra8tpg8m6.azcdn107.net:8443/hls/xi6ufvw.m3u8?s=KwRZo3k6xUeq0dJ1xATGkQ&e=1624686140
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_44_3_.m3u8
 
 #EXTINF:-1, DIRECTV DEPOR
 https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=77lmGuVFGS22uCJuDaE7qw&e=1624686337
@@ -72,7 +78,7 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=77lmGuVFGS22uCJuDaE7qw&
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_75_3_.m3u8
 
 #EXTINF:-1, ESPN
-https://6ra8tpg8m6.azcdn107.net:8443/hls/aavioijd7v8377.m3u8?s=CvpZm6r1eM9mQwc7k19VrQ&e=1624686630
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_56_3_.m3u8
 
 #EXTINF:-1, HBO2
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_91_1_.m3u8
