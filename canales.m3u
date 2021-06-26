@@ -7,6 +7,8 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
 #EXTINF:-1, ECUAVISA
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
+#EXTINF:-1, ECUAVISA
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/2036c014fcd692eef0e91e124c8c949884f2c61d/415f823cfb6314e35443aee675a8a488a485a9f0/100182_19.m3u8
 
 #EXTINF:-1, RTS
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzMDU3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjJjZDI5OTAwZDM4MWZlZjk1YzVjNDU2MWM3MDMyZjk4N2IyMTM0MjAifQ%3D%3D
@@ -33,7 +35,7 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/0gtz7.m3u8?s=HDpOMfbrgA3Wmq_IK7uBzg&e=1
 https://6ra8tpg8m6.azcdn107.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=E5hg6f596MsKEg_ril4ePQ&e=1624685637
 
 #EXTINF:-1, FOX
-https://6ra8tpg8m6.azcdn107.net:8443/hls/0e733j.m3u8?s=ReFvuqQ3kidl_HSqX6nGHQ&e=1624685702
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/2036c014fcd692eef0e91e124c8c949884f2c61d/560cbddc5f181b0f3553f8fc94ebbb8d10c85c0c/10030_19.m3u8
 
 #EXTINF:-1, FOX
 https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=ZRKjkbHpOCdx23_7kbE9lw&e=1624685690
@@ -69,7 +71,7 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/yodsbtspkxcb04i.m3u8?s=gQ1CK1H59gGC6BMy
 https://6ra8tpg8m6.azcdn107.net:8443/hls/aavioijd7v8377.m3u8?s=CvpZm6r1eM9mQwc7k19VrQ&e=1624686630
 
 #EXTINF:-1, HBO2
-https://6ra8tpg8m6.azcdn107.net:8443/hls/x5r58d0omlmqph.m3u8?s=s1gH-yqjXtvrhUboOSW-ZA&e=1624686759
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_91_1_.m3u8
 
 #EXTINF:-1, HBO
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_90_1_.m3u8
