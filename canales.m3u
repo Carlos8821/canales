@@ -7,8 +7,6 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
 #EXTINF:-1, ECUAVISA
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
-#EXTINF:-1, ECUAVISA
-http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/2036c014fcd692eef0e91e124c8c949884f2c61d/415f823cfb6314e35443aee675a8a488a485a9f0/100182_19.m3u8
 
 #EXTINF:-1, RTS
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzMDU3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjJjZDI5OTAwZDM4MWZlZjk1YzVjNDU2MWM3MDMyZjk4N2IyMTM0MjAifQ%3D%3D
@@ -29,10 +27,10 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9LTYzeq-3B12GuQ-c3c6
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_20_3_.m3u8
 
 #EXTINF:-1, DISCOVERY KIDS
-https://6ra8tpg8m6.azcdn107.net:8443/hls/0gtz7.m3u8?s=HDpOMfbrgA3Wmq_IK7uBzg&e=1624685580
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_41_3_.m3u8
 
 #EXTINF:0,NICK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=E5hg6f596MsKEg_ril4ePQ&e=1624685637
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_117_3_.m3u8
 
 #EXTINF:-1, FOX
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_62_3_.m3u8
@@ -40,14 +38,20 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_62_3_.m3u8
 #EXTINF:-1, FOX
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_69_3_.m3u8
 
+#EXTINF:-1, FOX
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_59_3_.m3u8
+
 #EXTINF:-1, FX
-https://6ra8tpg8m6.azcdn107.net:8443/hls/tmrzr0.m3u8?s=tEQg2EFMcXdIZb6s2jx08A&e=1624685811
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_81_3_.m3u8
+
+#EXTINF:-1, CANAL CLARO
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_17_3_.m3u8
 
 #EXTINF:-1, TNT
-https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=Ojf82EftjnLb0y4DdUGSAA&e=1624685908
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_159_3_.m3u8
 
 #EXTINF:-1, SPACE
-https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=eh5e5SJ6PomCY6_7biZerw&e=1624685940
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_126_3_.m3u8
 
 #EXTINF:-1, ID
 https://6ra8tpg8m6.azcdn107.net:8443/hls/1mptcl1.m3u8?s=3neW-az28MLQkGIwwCabHA&e=1624685993
@@ -65,7 +69,7 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/xi6ufvw.m3u8?s=KwRZo3k6xUeq0dJ1xATGkQ&e
 https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=77lmGuVFGS22uCJuDaE7qw&e=1624686337
 
 #EXTINF:-1, FOX DEPOR
-https://6ra8tpg8m6.azcdn107.net:8443/hls/yodsbtspkxcb04i.m3u8?s=gQ1CK1H59gGC6BMy9Y6_9w&e=1624686378
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_75_3_.m3u8
 
 #EXTINF:-1, ESPN
 https://6ra8tpg8m6.azcdn107.net:8443/hls/aavioijd7v8377.m3u8?s=CvpZm6r1eM9mQwc7k19VrQ&e=1624686630
@@ -77,10 +81,13 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_91_1_.m3u8
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_90_1_.m3u8
 
 #EXTINF:-1, AMC
-https://6ra8tpg8m6.azcdn107.net:8443/hls/mh2yp.m3u8?s=WhS2OukuZMaWxr95waPA1A&e=1624686870
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_3_3_.m3u8
 
 #EXTINF:-1, SONY
-https://6ra8tpg8m6.azcdn107.net:8443/hls/oc2v2i6j.m3u8?s=OZ6lsynCAAR6yaGeoK4RIw&e=1624686966
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_125_3_.m3u8
+
+#EXTINF:-1, TELEMUNDO
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_132_3_.m3u8
 
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", Canela TV  | EC
 https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
