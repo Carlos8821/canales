@@ -20,6 +20,9 @@ https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=
 #EXTINF:-1, NOVELA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806&deviceDNT=0&deviceModel=0
 
+
+http://198.255.22.52:7283/ickrhzti1fx91czgfygyp1cfipju1xbtfeh8mi4t55a9vzl8uddk3jn6wy2g9bwrr880sg8k3tpi/index.m3u8
+
 #EXTINF:-1, GOL TV
 https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9LTYzeq-3B12GuQ-c3c6DQ&e=1624648804
 
