@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", TELEAMAZONAS  | EC
 https://playback.akamaized.net/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media/1359588_4428723_lsitxwgnwg59hue92od_1@2756000p.m3u8?dw=14400&ts=1624626000&hdnts=exp=1624799549~acl=/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media*~hmac=6204b53b63a57d5f1edcae8450e180cc3e15ff5328580fcd304675cac8d0c488
 
-#EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", TELEAMAZONAS
+#EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg", TELEAMAZONAS
 https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
-#EXTINF:-1 tvg-name="ECUAVISA" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", ECUAVISA 
+#EXTINF:-1 tvg-name="ECUAVISA" 
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
-#EXTINF:-1 tvg-name="RTS" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", RTS
+#EXTINF:-1 tvg-name="RTS" 
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzMDU3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjJjZDI5OTAwZDM4MWZlZjk1YzVjNDU2MWM3MDMyZjk4N2IyMTM0MjAifQ%3D%3D
 
 #EXTINF:-1 tvg-name="TC" tvg-logo="https://i.pinimg.com/originals/09/ed/8e/09ed8ed6be0255ed4281a245b6528209.jpg", TC  | EC
@@ -21,13 +21,13 @@ https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=
 #EXTINF:-1, NOVELA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-name="GOL TV" tvg-logo="http://3.bp.blogspot.com/-L4Bme8WYMWw/VMqv-jP7pEI/AAAAAAAAAIM/I-ZbmcBp1bY/s1600/Gol%2BTV%2Ben%2Bvivo%2BOnline.jpeg"
+#EXTINF:-1 tvg-name="GOL TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_04/large.golTVHD.jpg.50d7fc6e3612d9a3e442edd83019ee04.jpg", GOL TV
 https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9LTYzeq-3B12GuQ-c3c6DQ&e=1624648804
 
-#EXTINF:-1, GOL PERU tvg-logo="https://prod.media.libero.pe/1200x660/libero/imagen/2020/09/11/noticia-1599864599-gol-peru-vivo.jpg"
+#EXTINF:-1, tvg-name="GOL PERU" tvg-logo="https://i.pinimg.com/originals/a6/ec/51/a6ec51288397e1a0860ad4aadce0be84.jpg", GOL PERU
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/110_.m3u8
 
-#EXTINF:-1 tvg-name="BOOMERANG", BOOMERANG
+#EXTINF:-1 BOOMERANG
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_14_3_.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", CARTOON NETWORK
@@ -36,31 +36,31 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_20_3_.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", DISCOVERY KIDS
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_41_3_.m3u8
 
-#EXTINF:-1 tvg-name="NICKS" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", NICK
+#EXTINF:-1 tvg-name="NICKS" , NICK
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_117_3_.m3u8
 
-#EXTINF:-1 tvg-name="FOX" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", FOX
+#EXTINF:-1 tvg-name="FOX" , FOX
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_62_3_.m3u8
 
-#EXTINF:-1 tvg-name="FOX" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", FOX
+#EXTINF:-1 tvg-name="FOX" , FOX
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_69_3_.m3u8
 
 #EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://www.rosario3.com/__export/1612475305565/sites/rosario3/img/2021/02/04/fox-stardfdf.jpg_1756841869.jpg", STAR CHANNEL
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_59_3_.m3u8
 
-#EXTINF:-1 tvg-name="FX" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", FX
+#EXTINF:-1 tvg-name="FX" , FX
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_81_3_.m3u8
 
-#EXTINF:-1 tvg-name="CANAL CLARO" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", CANAL CLARO
+#EXTINF:-1 tvg-name="CANAL CLARO" , CANAL CLARO
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_17_3_.m3u8
 
-#EXTINF:-1 tvg-name="TNT" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", TNT
+#EXTINF:-1 tvg-name="TNT" , TNT
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_159_3_.m3u8
 
-#EXTINF:-1 tvg-name="SPACE" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", SPACE
+#EXTINF:-1 tvg-name="SPACE" , SPACE
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_126_3_.m3u8
 
-#EXTINF:-1 tvg-name="ID" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", ID
+#EXTINF:-1 tvg-name="ID" , ID
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_100_3_.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY" , DISCOVERY
@@ -75,13 +75,13 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_40_3_.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" , DISCOVERY TURBO
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_44_3_.m3u8
 
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", MTV
+#EXTINF:-1 tvg-name="MTV" , MTV
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_107_3_.m3u8
 
 #EXTINF:-1 tvg-name="DIRECTV DEPOR" tvg-logo="https://www.vive-santa-elena.com/wp-content/uploads/2019/08/204-2047658_urmdp-tv-directv-sports-logo-png-transparent-png.jpg", DIRECTV DEPOR
 https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=77lmGuVFGS22uCJuDaE7qw&e=1624686337
 
-#EXTINF:-1 tvg-name="FOX DEPOR" tvg-logo="https://depor.com/resizer/nxlng1kXC0F9YBdjgY5s22fwnY0=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NSAWUWMLQVHUJAECRYKQGTM45Y.jpg", FOX DEPOR
+#EXTINF:-1 tvg-name="FOX DEPOR" tvg-logo="https://c0.klipartz.com/pngpicture/107/435/gratis-png-fox-sports-networks-television-fox-news-fox-europeo.png", FOX DEPOR
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_75_3_.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", ESPN
