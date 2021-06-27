@@ -6,10 +6,10 @@ https://playback.akamaized.net/streams/1359588_4428723_lsitxwgnwg59hue92od_1/med
 #EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg", TELEAMAZONAS
 https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
-#EXTINF:-1 tvg-name="ECUAVISA" , ECUAVISA
+#EXTINF:-1 ECUAVISA
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
-#EXTINF:-1 tvg-name="RTS" , RTS
+#EXTINF:-1 RTS
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzMDU3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjJjZDI5OTAwZDM4MWZlZjk1YzVjNDU2MWM3MDMyZjk4N2IyMTM0MjAifQ%3D%3D
 
 #EXTINF:-1 tvg-name="TC" tvg-logo="https://i.pinimg.com/originals/09/ed/8e/09ed8ed6be0255ed4281a245b6528209.jpg", TC  | EC
