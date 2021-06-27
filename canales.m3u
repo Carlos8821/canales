@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:1, Teleamazonas tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg"
+#EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", TELEAMAZONAS  | EC
 https://playback.akamaized.net/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media/1359588_4428723_lsitxwgnwg59hue92od_1@2756000p.m3u8?dw=14400&ts=1624626000&hdnts=exp=1624799549~acl=/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media*~hmac=6204b53b63a57d5f1edcae8450e180cc3e15ff5328580fcd304675cac8d0c488
 
 #EXTINF:1, Teleamazonas
@@ -12,7 +12,7 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 #EXTINF:-1, RTS
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzMDU3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjJjZDI5OTAwZDM4MWZlZjk1YzVjNDU2MWM3MDMyZjk4N2IyMTM0MjAifQ%3D%3D
 
-#EXTINF:-1 tvg-name="TC" tvg-logo="https://2.bp.blogspot.com/-nPlPTUdXvtw/XCEaTE47b_I/AAAAAAAABwQ/UMEo2czxyF07tn4xXJiNGbJlwwNJvwiigCLcBGAs/w1200-h630-p-k-no-nu/Tc-television.jpg", TC  | EC
+#EXTINF:-1 tvg-name="TC" tvg-logo="https://i.pinimg.com/originals/09/ed/8e/09ed8ed6be0255ed4281a245b6528209.jpg", TC  | EC
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 
 #EXTINF:-1, TVC
