@@ -12,7 +12,7 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 #EXTINF:-1, RTS
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzMDU3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjJjZDI5OTAwZDM4MWZlZjk1YzVjNDU2MWM3MDMyZjk4N2IyMTM0MjAifQ%3D%3D
 
-#EXTINF:-1, tvg-name="TC" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png"
+#EXTINF:-1, tvg-name="TC" tvg-logo="https://www.m3u.cl/logo/97_Canela_TV.png", TC  | EC
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 
 #EXTINF:-1, TVC
