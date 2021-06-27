@@ -27,7 +27,7 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9LTYzeq-3B12GuQ-c3c6
 #EXTINF:-1, GOL PERU tvg-logo="https://prod.media.libero.pe/1200x660/libero/imagen/2020/09/11/noticia-1599864599-gol-peru-vivo.jpg"
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/110_.m3u8
 
-#EXTINF:-1 tvg-name="BOOMERANG"
+#EXTINF:-1 tvg-name="BOOMERANG", BOOMERANG
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_14_3_.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", CARTOON NETWORK
@@ -63,16 +63,16 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_126_3_.m3u8
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", ID
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_100_3_.m3u8
 
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", DISCOVERY
+#EXTINF:-1 tvg-name="DISCOVERY" , DISCOVERY
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_39_3_.m3u8
 
-#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", ANIMAL PLANET
+#EXTINF:-1 tvg-name="ANIMAL PLANET" , ANIMAL PLANET
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_4_3_.m3u8
 
 #EXTINF:-1 tvg-name="H&H" tvg-logo="https://multipress.com.mx/wp-content/uploads/2018/08/hh_placeholder.jpg", H&H
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_40_3_.m3u8
 
-#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", DISCOVERY TURBO
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" , DISCOVERY TURBO
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_44_3_.m3u8
 
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", MTV
