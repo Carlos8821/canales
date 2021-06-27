@@ -26,6 +26,9 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9LTYzeq-3B12GuQ-c3c6
 #EXTINF:-1, GOL PERU
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/110_.m3u8
 
+#EXTINF:-1, BOOMERANG
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_14_3_.m3u8
+
 #EXTINF:-1, CARTOON NETWORK
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_20_3_.m3u8
 
@@ -71,6 +74,9 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_40_3_.m3u8
 #EXTINF:-1, DISCOVERY TURBO
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_44_3_.m3u8
 
+#EXTINF:-1, MTV
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_107_3_.m3u8
+
 #EXTINF:-1, DIRECTV DEPOR
 https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=77lmGuVFGS22uCJuDaE7qw&e=1624686337
 
@@ -80,11 +86,17 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_75_3_.m3u8
 #EXTINF:-1, ESPN
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_56_3_.m3u8
 
+#EXTINF:-1, HBO
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_90_1_.m3u8
+
 #EXTINF:-1, HBO2
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_91_1_.m3u8
 
-#EXTINF:-1, HBO
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_90_1_.m3u8
+#EXTINF:-1, HBO PLUS
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_93_3_.m3u8
+
+#EXTINF:-1, HBO FAMILY
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_92_3_.m3u8
 
 #EXTINF:-1, AMC
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_3_3_.m3u8
