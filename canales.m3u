@@ -1,15 +1,15 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="06 | TELEAMAZONAS" tvg-logo="https://appnew.megainfoapp.com/files/1/teleamazonas.png" group-title="ECUADOR ",06 | TELEAMAZONAS
+#EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="01 | TELEAMAZONAS" tvg-logo="https://appnew.megainfoapp.com/files/1/teleamazonas.png" group-title="ECUADOR ",06 | TELEAMAZONAS
 https://playback.akamaized.net/streams/1359588_4428723_lsi9ff2kibm02t61tuy_1/media/1359588_4428723_lsi9ff2kibm02t61tuy_1@2756000p.m3u8?dw=80&ts=1625364000&hdnts=exp=1625538689~acl=/streams/1359588_4428723_lsi9ff2kibm02t61tuy_1/media*~hmac=aca2edbe6437c04992cac4702ccc4e712ab35fa114b5c6e225956663e7d059d6
 
-#EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="06 | TELEAMAZONAS" tvg-logo="https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg" group-title="ECUADOR ",06 | TELEAMAZONAS
+#EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="02 | TELEAMAZONAS" tvg-logo="https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg" group-title="ECUADOR ",06 | TELEAMAZONAS
 https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
 #EXTINF:-1 tvg-id="I182.3740.tvguide.com" tvg-name="01 | ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Ecuavisa-Logo.svg/800px-Ecuavisa-Logo.svg.png" group-title="ECUADOR ",01 | ECUAVISA
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
-#EXTINF:-1 tvg-id="I182.3740.tvguide.com" tvg-name="01 | ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Ecuavisa-Logo.svg/800px-Ecuavisa-Logo.svg.png" group-title="ECUADOR ",01 | ECUAVISA
+#EXTINF:-1 tvg-id="I182.3740.tvguide.com" tvg-name="02 | ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Ecuavisa-Logo.svg/800px-Ecuavisa-Logo.svg.png" group-title="ECUADOR ",01 | ECUAVISA
 http://e10.telerium.uno:2052/free10/371/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgMjo1ODozNCBQTSZoYXNoX3ZhbHVlPWthSnY1UFErdldaWGdOQ1JVeG93ZVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 tvg-id="I185.42728.tvguide.com" tvg-name="04 | RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR ",04 | RTS HD
