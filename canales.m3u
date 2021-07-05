@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="01 | TELEAMAZONAS" tvg-logo="https://appnew.megainfoapp.com/files/1/teleamazonas.png" group-title="ECUADOR ",06 | TELEAMAZONAS
-https://playback.akamaized.net/streams/1359588_4428723_lsi9ff2kibm02t61tuy_1/media/1359588_4428723_lsi9ff2kibm02t61tuy_1@2756000p.m3u8?dw=80&ts=1625364000&hdnts=exp=1625538689~acl=/streams/1359588_4428723_lsi9ff2kibm02t61tuy_1/media*~hmac=aca2edbe6437c04992cac4702ccc4e712ab35fa114b5c6e225956663e7d059d6
+https://playback.akamaized.net/streams/1359588_4428723_lsititxvb3ulfnj6105_1/media/1359588_4428723_lsititxvb3ulfnj6105_1@2756000p.m3u8?dw=80&ts=1625511600&hdnts=exp=1625687566~acl=/streams/1359588_4428723_lsititxvb3ulfnj6105_1/media*~hmac=da2ca0b190cbc29b560df589533905cab8de6d745aa6ef7a4c9ca382018fcdb4
 
 #EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="02 | TELEAMAZONAS" tvg-logo="https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg" group-title="ECUADOR ",06 | TELEAMAZONAS
 https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
@@ -13,13 +13,13 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 http://e10.telerium.uno:2052/free10/371/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjEgNzo0NjoxOCBQTSZoYXNoX3ZhbHVlPTlaNFJ3R2RzL2lUaUowSnlJbVdkWmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 tvg-id="I185.42728.tvguide.com" tvg-name="04 | RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR ",04 | RTS HD
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDUyOTU5LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImNhZDJhMDc0NDM0YjViYmVmZDMyZDY0YzUyY2I2OWFlYjg2NzNhNTcifQ%3D%3D
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NjAxNjkyLCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImMxODI4OTEzNDMxNmIzODBhN2E3MTJlNzk0M2RhYWNiMDk2NDRkMzgifQ%3D%3D
 
 #EXTINF:-1 tvg-id="I181.23914.tvguide.com" tvg-name="08 | TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",08 | TC TELEVISION HD
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 
 #EXTINF:-1 tvg-name="TVC" , TVC
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDUzNDE2LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImY4ZTVmNDI2ZTRiZGFmNzRiYmEyOGY5MDgyNjllZjY0MzFmODliYjMifQ%3D%3D
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NjAxODg4LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImI4M2NmYzJhMzM5MzQ4MWE3ZmQ0NjE1NTE1ZTQwMDRlMGI1NzQ4ZGQifQ%3D%3D
 
 #EXTINF:-1, NOVELA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806&deviceDNT=0&deviceModel=0
