@@ -10,7 +10,7 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
 #EXTINF:-1 tvg-id="I182.3740.tvguide.com" tvg-name="02 | ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Ecuavisa-Logo.svg/800px-Ecuavisa-Logo.svg.png" group-title="ECUADOR ",01 | ECUAVISA
-http://e10.telerium.uno:2052/free10/371/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgMjo1ODozNCBQTSZoYXNoX3ZhbHVlPWthSnY1UFErdldaWGdOQ1JVeG93ZVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+http://e10.telerium.uno:2052/free10/371/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjEgNzo0NjoxOCBQTSZoYXNoX3ZhbHVlPTlaNFJ3R2RzL2lUaUowSnlJbVdkWmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 tvg-id="I185.42728.tvguide.com" tvg-name="04 | RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR ",04 | RTS HD
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDUyOTU5LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImNhZDJhMDc0NDM0YjViYmVmZDMyZDY0YzUyY2I2OWFlYjg2NzNhNTcifQ%3D%3D
@@ -128,35 +128,6 @@ https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="885" tvg-name="El Futuro en tu Mano" tvg-logo="https://www.m3u.cl/logo/885_El_Futuro_en_tu_Mano.jpg", El Futuro en tu Mano  | ES
 https://limited24.todostreaming.es/live/renjillo-livestream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,iptvtools_4
-https://infantil-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1,iptvtools_5
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-#EXTINF:-1,iptvtools_7
-https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
-
-#EXTINF:-1,iptvtools_8
-https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
-
-#EXTINF:-1,iptvtools_10
-http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
-
-#EXTINF:-1,iptvtools_12
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1,iptvtools_13
-https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
-
-#EXTINF:-1,iptvtools_14
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-
-
-
-
-
 
 
 
