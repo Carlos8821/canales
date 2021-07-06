@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="01 | TELEAMAZONAS" tvg-logo="https://appnew.megainfoapp.com/files/1/teleamazonas.png" group-title="ECUADOR ",06 | TELEAMAZONAS
-https://playback.akamaized.net/streams/1359588_4428723_lsirx7bqy4k5rsyqsss_1/media/1359588_4428723_lsirx7bqy4k5rsyqsss_1@2756000p.m3u8?dw=14400&ts=1625526000&hdnts=exp=1625699407~acl=/streams/1359588_4428723_lsirx7bqy4k5rsyqsss_1/media*~hmac=1f89766ecd595c489fba735b0c107694e1ed8c63121db729453a678e67c6fdea
+https://playback.akamaized.net/streams/1359588_4428723_lsigmcceullyqyng2k4_1/media/1359588_4428723_lsigmcceullyqyng2k4_1@2756000p.m3u8?dw=80&ts=1625533200&hdnts=exp=1625708334~acl=/streams/1359588_4428723_lsigmcceullyqyng2k4_1/media*~hmac=1e4ae0ae762856542d354bf40c7b4ceb5cfe7d285c5f75cb182fa239bd576716
 
 #EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="02 | TELEAMAZONAS" tvg-logo="https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg" group-title="ECUADOR ",06 | TELEAMAZONAS
 https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
